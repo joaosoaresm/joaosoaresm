@@ -5,7 +5,7 @@ SOBRE
   aprender e conhecer cada vez mais sobre códigos e linguagens de programação.
 ----------------------------------------
 FORMAÇÂO
--⏳ Curso técnico em Informática
+- ⏳ Curso técnico em Informática
 
 
 <!---
