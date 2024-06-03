@@ -1,4 +1,4 @@
-- 👋Olá, me camo João Vitor!
+- 👋Olá, me chamo João Vitor!
 ----------------------------------------
 SOBRE
 - Gosto de qualquer coisa relacionado a tecnologia, e estou sempre visando
