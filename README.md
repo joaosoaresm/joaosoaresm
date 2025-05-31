@@ -4,7 +4,10 @@ Hi 👋 My name is Joao Vitor Soares
 Web developer
 -------------
 
-🎓 Technical student in IT with 3 years of programming experience. 🐍 Passionate about Python and web development. 🚀 Always looking for new challenges and opportunities to learn in tech. 💻 Projects focused on APIs, automation, and modern interfaces.
+🎓 Technical student in IT with 3 years of programming experience. 
+🐍 Passionate about Python and web development. 
+🚀 Always looking for new challenges and opportunities to learn in tech. 
+💻 Projects focused on APIs, automation, and modern interfaces.
 
 *   🌍  I'm based in São José dos Campos
 *   ✉️  You can contact me at [joaovitorsoaresdemoraes59@gmail.com](mailto:joaovitorsoaresdemoraes59@gmail.com)
