@@ -2,7 +2,7 @@
 <h3 align="center">IT Technician | Aspiring Software Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MyPortfolio<br><br>🌍  I'm based in São José dos Campos<br><br>🧠  I'm learning New technologies<br><br>🤝  I'm open to collaborating on Insteresting projects<br><br>📫 How to reach me joaovitorsoaresdemoraes59@gmail.com
+🔭 I’m currently working on [MyPortfolio](https://github.com/joaosoaresm/MyPortfolio.git)<br><br>🌍  I'm based in São José dos Campos<br><br>🧠  I'm learning New technologies<br><br>🤝  I'm open to collaborating on Insteresting projects<br><br>📫 How to reach me joaovitorsoaresdemoraes59@gmail.com
 
 
 ## 🌐 Socials:
