@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor(a) de Software com foco em construir soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias e linguagens de programação, e busco constantemente aprender novas ferramentas e boas práticas para entregar código de qualidade. Gosto de resolver problemas complexos, colaborar em equipe e contribuir para projetos que gerem impacto real.
+Desenvolvedor de Software com foco em construir soluções eficientes e escaláveis. Tenho experiência em diversas tecnologias e linguagens de programação, e busco constantemente aprender novas ferramentas e boas práticas para entregar código de qualidade. Gosto de resolver problemas complexos, colaborar em equipe e contribuir para projetos que gerem impacto real.
 
 
 ## 🌐 Socials:
